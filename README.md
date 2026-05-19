@@ -1,3 +1,7 @@
+<p align="center">
+<img src="[LINK_BANNER_CUA_BAN](https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=THUAN-nl-Senior%20Software%20Engineer)"/>
+</p>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm LE VAN THUAN
 
 <h3>Senior Software Engineer</h3>
