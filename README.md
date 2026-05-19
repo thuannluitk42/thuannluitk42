@@ -17,7 +17,7 @@
 <img align="right" alt="coding" width="380"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-<div align="left">
+<p align="center">
 
 - 🔭 Building scalable backend systems  
 - 🌱 Java | Spring Boot | Node.js  
