@@ -17,11 +17,15 @@
 <img align="right" alt="coding" width="380"
 src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-- 🔭 Building scalable backend systems
-- 🌱 Java | Spring Boot | Node.js
-- 🐳 Docker | Redis | PostgreSQL
-- ☁️ Cloud-ready architectures
-- 💡 Clean code enthusiast
+<div align="left">
+
+- 🔭 Building scalable backend systems  
+- 🌱 Java | Spring Boot | Node.js  
+- 🐳 Docker | Redis | PostgreSQL  
+- ☁️ Cloud-ready architectures  
+- 💡 Clean code enthusiast  
+
+</div>
 
 ---
 
