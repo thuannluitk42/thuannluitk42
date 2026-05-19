@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=THUAN-nl-Senior%20Software%20Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=300&section=header&text=THUAN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer&descAlignY=55&descAlign=50"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=thuannluitk42&label=Profile%20Views&color=8A2BE2&style=flat"/>
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm LE VAN THUAN
@@ -51,17 +55,37 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 # 📈 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thuannluitk42&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thuannluitk42&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## AnimeFigureStore
-Java Spring Boot e-commerce project.
+<table>
+<tr>
 
-## CybersoftELearningBE
-Backend RESTful API for E-learning platform.
+<td width="50%">
+
+### AnimeFigureStore
+
+Java Spring Boot e-commerce platform.
+
+</td>
+
+<td width="50%">
+
+### CybersoftELearningBE
+
+RESTful API backend for E-learning platform.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
