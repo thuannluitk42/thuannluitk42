@@ -6,8 +6,12 @@
 
 <h3>Senior Software Engineer</h3>
 
-<img align="right" alt="coding" width="400"
-src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Engineer;Node.js+Developer;Backend+System+Design"/>
+</p>
+
+<img align="right" alt="coding" width="380"
+src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 - 🔭 Building scalable backend systems
 - 🌱 Java | Spring Boot | Node.js
